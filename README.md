@@ -1,2 +1,3 @@
 To run the code:
-`pytest -s -v`
+* `pip install -r requirements.txt`
+* `pytest -s -v`
